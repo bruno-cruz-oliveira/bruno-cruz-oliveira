@@ -152,7 +152,7 @@ Me chamo Bruno Cruz de Oliveira, tenho 19 anos e sou natural de São Gabriel, Ba
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://github-readme-stats.vercel.app/api?username=bruno-cruz-oliveira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
